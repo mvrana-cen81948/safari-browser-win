@@ -1,0 +1,15 @@
+{
+  "name": "safari-browser-win",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwright.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --harmony playwright.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.25.0"
+  }
+}
